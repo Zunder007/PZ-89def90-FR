@@ -1,0 +1,5 @@
+ItemName_FR = {
+	ItemName_Base.def90SpareCompartment1 = "Compartiment pour roue de secours",
+	ItemName_Base.def90SpareCompartment2 = "Compartiment pour roue de secours",
+	ItemName_Base.def90SpareCompartment3 = "Compartiment pour roue de secours",
+}
