@@ -1,0 +1,5 @@
+IG_UI_FR = {
+	IGUI_VehicleName89def90 = "'89 LAND ROVER Defender 90 SUV"
+	IGUI_VehicleName89def90op = "'89 LAND ROVER Defender 90 SUV Version tout-terrain"
+	IGUI_VehiclePartdef90Spare = "Compartiment pour roue de secours",
+}
